@@ -1,0 +1,7 @@
+name,density (g/L),diameter (nm),concentration (mg/L),sphericity,adsorbent,adsorbate
+PAC,2300,20000,1,0.5,1,0
+Giardia,1004,12000,0,1,0,0
+kaolin,2650,5000,25,0.5,0,0
+humic,1500,50,2,0.9,0,1
+GraciasDOM,850,5,1,0.9,0,1
+
